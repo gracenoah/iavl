@@ -3,7 +3,7 @@ module github.com/gracenoah/iavl
 go 1.12
 
 require (
-	github.com/gracenoah/tendermint v0.32.6-renamed2
+	github.com/gracenoah/tendermint v0.32.6-renamed3
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.4.0
 	github.com/tendermint/go-amino v0.14.1
