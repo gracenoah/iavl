@@ -7,7 +7,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/tendermint/tendermint/crypto/tmhash"
+	"github.com/gracenoah/tendermint/crypto/tmhash"
 	dbm "github.com/tendermint/tm-db"
 )
 

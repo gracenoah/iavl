@@ -8,7 +8,7 @@ import (
 
 	"github.com/tendermint/go-amino"
 	cmn "github.com/gracenoah/iavl/common"
-	"github.com/tendermint/tendermint/crypto/tmhash"
+	"github.com/gracenoah/tendermint/crypto/tmhash"
 )
 
 var (
