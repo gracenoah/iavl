@@ -29,9 +29,9 @@ IMPROVEMENTS
 
 - Database key format avoids use of fmt.Sprintf fmt.Sscanf leading to ~10% speedup in benchmark BenchmarkTreeLoadAndDelete ([#107], thanks to [@silasdavis])
 
-[#107]: https://github.com/tendermint/iavl/pull/107
+[#107]: https://github.com/gracenoah/iavl/pull/107
 [@silasdavis]: https://github.com/silasdavis
-[#96]: https://github.com/tendermint/iavl/pull/96
+[#96]: https://github.com/gracenoah/iavl/pull/96
 
 ## 0.10.0
 
@@ -42,8 +42,8 @@ with possibility to:
   - load read-only snapshots at previous versions on demand
   - load mutable trees at the most recently saved tree
 
-[1]: https://github.com/tendermint/iavl/blob/9e62436856efa94c1223043be36ebda01ae0b6fc/mutable_tree.go#L14-L21
-[2]: https://github.com/tendermint/iavl/blob/9e62436856efa94c1223043be36ebda01ae0b6fc/immutable_tree.go#L10-L17
+[1]: https://github.com/gracenoah/iavl/blob/9e62436856efa94c1223043be36ebda01ae0b6fc/mutable_tree.go#L14-L21
+[2]: https://github.com/gracenoah/iavl/blob/9e62436856efa94c1223043be36ebda01ae0b6fc/immutable_tree.go#L10-L17
 
 BUG FIXES
 
