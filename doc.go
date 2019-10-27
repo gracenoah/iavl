@@ -5,7 +5,7 @@
 // Basic usage of MutableTree.
 //
 //  import "github.com/gracenoah/iavl"
-//  import "github.com/tendermint/tendermint/libs/db"
+//  import "github.com/gracenoah/tendermint/libs/db"
 //  ...
 //
 //  tree := iavl.NewMutableTree(db.NewMemDB(), 128)

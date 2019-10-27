@@ -10,7 +10,7 @@ IMPROVEMENTS
 
 BREAKING CHANGES
 
-- Uses new Tendermint ReverseIterator API.  See https://github.com/tendermint/tendermint/pull/2913
+- Uses new Tendermint ReverseIterator API.  See https://github.com/gracenoah/tendermint/pull/2913
 
 ## 0.11.1 (October 29, 2018)
 

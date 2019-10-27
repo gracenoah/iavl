@@ -9,11 +9,11 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/tendermint/tendermint/libs/db"
+	"github.com/gracenoah/tendermint/libs/db"
 
 	mathrand "math/rand"
 
-	cmn "github.com/tendermint/tendermint/libs/common"
+	cmn "github.com/gracenoah/tendermint/libs/common"
 )
 
 var testLevelDB bool

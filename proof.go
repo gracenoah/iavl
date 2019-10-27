@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/tendermint/go-amino"
-	"github.com/tendermint/tendermint/crypto/tmhash"
-	cmn "github.com/tendermint/tendermint/libs/common"
+	"github.com/gracenoah/tendermint/crypto/tmhash"
+	cmn "github.com/gracenoah/tendermint/libs/common"
 )
 
 var (

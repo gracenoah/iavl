@@ -7,7 +7,7 @@
   version = "v0.14.0"
 
 [[constraint]]
-  name = "github.com/tendermint/tendermint"
+  name = "github.com/gracenoah/tendermint"
   version = "v0.30.0"
 
 [prune]

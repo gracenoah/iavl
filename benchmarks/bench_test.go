@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/gracenoah/iavl"
-	db "github.com/tendermint/tendermint/libs/db"
+	db "github.com/gracenoah/tendermint/libs/db"
 )
 
 const historySize = 20
